@@ -1,0 +1,1 @@
+In this version the problem with the duplicates is fixed and the script is now recognizing them.
